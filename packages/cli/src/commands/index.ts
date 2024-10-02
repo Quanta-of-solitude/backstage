@@ -158,7 +158,7 @@ export function registerScriptCommand(program: Command) {
     .option('--fix', 'Attempt to automatically fix violations')
     .option(
       '--max-warnings <number>',
-      'Fail if more than this number of warnings',
+      'Fail if more than this number of warnings (default: 0)',
     )
     .description('Lint a package')
     .action(lazy(() => import('./lint').then(m => m.default)));
