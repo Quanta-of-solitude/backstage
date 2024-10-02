@@ -1,5 +1,11 @@
 # @backstage/plugin-techdocs-module-addons-contrib
 
+## 1.1.16-next.2
+
+### Patch Changes
+
+- e8b4966: Use more of the available space for the navigation sidebar.
+
 ## 1.1.16-next.1
 
 ### Patch Changes

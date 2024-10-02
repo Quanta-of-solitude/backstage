@@ -1,5 +1,12 @@
 # @backstage/plugin-techdocs-node
 
+## 1.12.12-next.2
+
+### Patch Changes
+
+- 7774828: Updated dependency `@smithy/node-http-handler` to `^3.0.0`.
+- fbdc631: Allow to pass StorageOptions to GCS Publisher
+
 ## 1.12.12-next.1
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # @backstage/plugin-auth-backend-module-aws-alb-provider
 
+## 0.2.1-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-auth-backend@0.23.1-next.1
+
 ## 0.2.1-next.0
 
 ### Patch Changes

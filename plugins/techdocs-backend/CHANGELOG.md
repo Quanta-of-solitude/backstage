@@ -1,5 +1,14 @@
 # @backstage/plugin-techdocs-backend
 
+## 1.10.14-next.2
+
+### Patch Changes
+
+- fbdc631: Allow to pass StorageOptions to GCS Publisher
+- Updated dependencies
+  - @backstage/plugin-techdocs-node@1.12.12-next.2
+  - @backstage/plugin-search-backend-module-techdocs@0.2.3-next.2
+
 ## 1.10.14-next.1
 
 ### Patch Changes

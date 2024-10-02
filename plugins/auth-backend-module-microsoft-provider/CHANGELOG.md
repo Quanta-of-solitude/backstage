@@ -1,5 +1,11 @@
 # @backstage/plugin-auth-backend-module-microsoft-provider
 
+## 0.2.1-next.1
+
+### Patch Changes
+
+- daa02d6: Add `skipUserProfile` config flag to Microsoft authenticator
+
 ## 0.2.1-next.0
 
 ### Patch Changes

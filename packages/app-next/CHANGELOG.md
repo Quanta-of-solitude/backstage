@@ -1,5 +1,16 @@
 # example-app-next
 
+## 0.0.16-next.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-scaffolder@1.26.0-next.2
+  - @backstage/plugin-techdocs@1.10.11-next.2
+  - @backstage/plugin-search@1.4.18-next.2
+  - @backstage/plugin-techdocs-module-addons-contrib@1.1.16-next.2
+  - @backstage/plugin-catalog-graph@0.4.11-next.2
+
 ## 0.0.16-next.1
 
 ### Patch Changes

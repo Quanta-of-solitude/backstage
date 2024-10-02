@@ -1,5 +1,12 @@
 # @backstage/plugin-techdocs
 
+## 1.10.11-next.2
+
+### Patch Changes
+
+- e918061: Add support for mkdocs material palette conditional hashes.
+- e8b4966: Use more of the available space for the navigation sidebar.
+
 ## 1.10.11-next.1
 
 ### Patch Changes

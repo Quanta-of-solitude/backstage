@@ -1,5 +1,16 @@
 # @backstage/plugin-catalog-graph
 
+## 0.4.11-next.2
+
+### Patch Changes
+
+- 4d9f39e: Added InfoCard `action` attribute for CatalogGraphCard
+
+  ```tsx
+  const action = <Button title="Action Button" onClick={handleClickEvent()} />
+  <CatalogGraphCard action={action} />
+  ```
+
 ## 0.4.11-next.1
 
 ### Patch Changes

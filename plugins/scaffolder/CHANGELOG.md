@@ -1,5 +1,13 @@
 # @backstage/plugin-scaffolder
 
+## 1.26.0-next.2
+
+### Patch Changes
+
+- f989c47: Add translation to the editor toolbar component.
+- d4cafc8: Standardize template editor pages desktop and mobile layouts.
+- 3ac4766: Add an actions filter on the list actions page and drawer.
+
 ## 1.26.0-next.1
 
 ### Minor Changes

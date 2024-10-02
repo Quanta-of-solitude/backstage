@@ -1,5 +1,15 @@
 # example-backend-legacy
 
+## 0.2.103-next.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-techdocs-backend@1.10.14-next.2
+  - @backstage/plugin-auth-backend@0.23.1-next.1
+  - @backstage/plugin-search-backend-module-techdocs@0.2.3-next.2
+  - @backstage/plugin-signals-backend@0.2.1-next.0
+
 ## 0.2.103-next.1
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @backstage/plugin-search
 
+## 1.4.18-next.2
+
+### Patch Changes
+
+- 88d03d8: Updated the default SearchType.Accordion behavior to remain open after result type selection. This is a UX improvement to reduce the number of clicks needed when toggling result type filters.
+
 ## 1.4.18-next.1
 
 ### Patch Changes

@@ -1,5 +1,26 @@
 # @backstage/plugin-auth-backend
 
+## 0.23.1-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-auth-backend-module-microsoft-provider@0.2.1-next.1
+  - @backstage/plugin-auth-backend-module-atlassian-provider@0.3.1-next.0
+  - @backstage/plugin-auth-backend-module-auth0-provider@0.1.1-next.0
+  - @backstage/plugin-auth-backend-module-aws-alb-provider@0.2.1-next.1
+  - @backstage/plugin-auth-backend-module-azure-easyauth-provider@0.2.1-next.0
+  - @backstage/plugin-auth-backend-module-bitbucket-provider@0.2.1-next.0
+  - @backstage/plugin-auth-backend-module-bitbucket-server-provider@0.1.1-next.0
+  - @backstage/plugin-auth-backend-module-cloudflare-access-provider@0.3.1-next.0
+  - @backstage/plugin-auth-backend-module-github-provider@0.2.1-next.0
+  - @backstage/plugin-auth-backend-module-gitlab-provider@0.2.1-next.0
+  - @backstage/plugin-auth-backend-module-google-provider@0.2.1-next.0
+  - @backstage/plugin-auth-backend-module-oauth2-provider@0.3.1-next.0
+  - @backstage/plugin-auth-backend-module-oidc-provider@0.3.1-next.1
+  - @backstage/plugin-auth-backend-module-okta-provider@0.1.1-next.0
+  - @backstage/plugin-auth-backend-module-onelogin-provider@0.2.1-next.0
+
 ## 0.23.1-next.0
 
 ### Patch Changes
